@@ -4,8 +4,8 @@
   "logo": "https://telegra.ph/file/55cadc1697ae944a7f432.png",
   "keywords": [
     "telegram",
-    "mirror",
-    "googledrive"
+    "bot",
+    "teledrive"
   ],
   "repository": "https://github.com/oktest145/gdrive",
   "success_url": "",
@@ -28,7 +28,7 @@
       "value": ""
     },
     "GDRIVE_FOLDER_ID": {
-      "description": "This is the folder ID of the Google Drive Folder to which you want to upload all the mirrors.",
+      "description": "This is the folder ID of the Google Drive Folders.",
       "value": ""
     },
     "OWNER_ID": {

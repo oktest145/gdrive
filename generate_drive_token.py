@@ -1,11 +1,8 @@
 from oauth2client.client import OAuth2WebServerFlow
 
-# Why my "App isn't verified" ?
-# This might returned by google APIs because we are using a high level scope here 
-# How to fix it ?
-# Just hit the continue anyway button because here you are using you own credentials so no one gonna steal your data
-# else complete your developer/app profile and submit for review and get verified
-# W4RR10R
+
+
+
 
 __OAUTH_SCOPE = ['https://www.googleapis.com/auth/drive']
 __REDIRECT_URI = 'urn:ietf:wg:oauth:2.0:oob'
